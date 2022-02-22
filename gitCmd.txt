@@ -1,6 +1,7 @@
-4:23 PM 2/22/20224:23 PM 2/22/20224:23 PM 2/22/20224:23 PM 2/22/20224:23 PM 2/22/2022git clone url
+git clone url
 git add <fileName> -> to add the file or folder in the gir repo
 git commit -m 'message' is to commit in the git
 git push origin master  -> push the changes local to remove
 git fetch -> for download the changes from remote to local
 git merge -> is for merge the change in to local machine
+git pull = git fetch + git merge
