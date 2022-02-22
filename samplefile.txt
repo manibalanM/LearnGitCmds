@@ -1,3 +1,0 @@
-github commands
-
-git clone - for cloning the repo from the github
