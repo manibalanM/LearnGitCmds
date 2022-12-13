@@ -1,0 +1,3060 @@
+{
+  "environment": "stage",
+  "order_id": "6547",
+  "order_created_at": "2022-10-19 13:30:10",
+  "quote_id": "9404",
+  "order_number": "49000000328",
+  "order_state": "new",
+  "order_status": "pending",
+  "incentive_type": "rebate",
+  "order_store_id": "49",
+  "order_store_name": "Summit Utilities Website\nSummit Utilities Store\nSummit Utilities view",
+  "order_website_code": "main_summit",
+  "order_store_view_code": "view_summit",
+  "order_total_qty_ordered": "2.0000",
+  "order_grand_total": "0.0000",
+  "order_subtotal": "0.0000",
+  "order_tax_amount": "0.0000",
+  "order_total_paid": null,
+  "order_coupon": null,
+  "order_discount_amount": "0.0000",
+  "billing_address": {
+    "countryId": "US",
+    "region": "Colorado",
+    "street": [
+      "753 E Platteville Blvd"
+    ],
+    "city": "Pueblo",
+    "postCode": "81007",
+    "unitNumber": null
+  },
+  "shipping_address": {
+    "countryId": "US",
+    "region": "Colorado",
+    "street": [
+      "753 E Platteville Blvd"
+    ],
+    "city": "Pueblo",
+    "postCode": "81007",
+    "unitNumber": null
+  },
+  "shipping_amount": "0.0000",
+  "customer_account_number": "",
+  "order_email": "andrew.watson+easum@clearesult.com",
+  "order_ta_info": {
+    "cr_ta_company_name": "Not applicable",
+    "cr_ta_company_phone": "Not applicable",
+    "cr_ta_company_address": "Not applicable",
+    "cr_ta_company_city": "Not applicable",
+    "cr_ta_company_state": "Not applicable",
+    "cr_ta_company_zip": "Not applicable",
+    "cr_ta_company_tax_id": "Not applicable",
+    "cr_ta_company_w9_document": "Not applicable"
+  },
+  "customer_group_name": "General",
+  "promotion": [],
+  "total_discounted_value": null,
+  "installation_address": {
+    "selectUtility": "Colorado_Natural_Gas",
+    "typeOfUser": "For_Your_Home",
+    "companyName": "",
+    "firstName": "Elmo",
+    "lastName": "Abeyta",
+    "emailAddress": "andrew.watson+easum@clearesult.com",
+    "phoneNumber": "1112223345",
+    "address": "753 E Platteville Blvd",
+    "unit": "",
+    "city": "Pueblo",
+    "state": "CO",
+    "zip": "81007",
+    "termsAndConditions": true
+  },
+  "payee_address": {
+    "rebateReceiver": "AH",
+    "firstName": "Elmo",
+    "lastName": "Abeyta",
+    "address": "753 E Platteville Blvd",
+    "unit": "",
+    "city": "Pueblo",
+    "state": "CO",
+    "zip": "81007"
+  },
+  "ccv_input": [
+    {
+      "id": "selectUtility",
+      "label": "Service Provider",
+      "name": "selectUtility",
+      "group": "validate",
+      "value": "Colorado_Natural_Gas",
+      "textValue": "Colorado Natural Gas",
+      "extraValues": [],
+      "open": false,
+      "descriptionSkedulo": false
+    },
+    {
+      "id": "typeOfUser",
+      "label": "Type Of User",
+      "name": "typeOfUser",
+      "group": "validate",
+      "value": "For_Your_Home",
+      "textValue": "For your home",
+      "extraValues": [],
+      "open": false,
+      "descriptionSkedulo": false
+    },
+    {
+      "id": "companyName",
+      "label": "Company Name",
+      "name": "companyName",
+      "group": "validate",
+      "value": "",
+      "textValue": "",
+      "extraValues": [],
+      "open": false,
+      "descriptionSkedulo": false
+    },
+    {
+      "id": "firstName",
+      "label": "Primary Account Holder First Name",
+      "name": "firstName",
+      "group": "validate",
+      "value": "Elmo",
+      "textValue": "Elmo",
+      "extraValues": [],
+      "open": false,
+      "descriptionSkedulo": false
+    },
+    {
+      "id": "lastName",
+      "label": "Primary Account Holder Last Name",
+      "name": "lastName",
+      "group": "validate",
+      "value": "Abeyta",
+      "textValue": "Abeyta",
+      "extraValues": [],
+      "open": false,
+      "descriptionSkedulo": false
+    },
+    {
+      "id": "emailAddress",
+      "label": "Email Address",
+      "name": "emailAddress",
+      "group": "validate",
+      "value": "andrew.watson+easum@clearesult.com",
+      "textValue": "andrew.watson+easum@clearesult.com",
+      "extraValues": [],
+      "open": false,
+      "descriptionSkedulo": false
+    },
+    {
+      "id": "phoneNumber",
+      "label": "Phone Number",
+      "name": "phoneNumber",
+      "group": "validate",
+      "value": "1112223345",
+      "textValue": "1112223345",
+      "extraValues": [],
+      "open": false,
+      "descriptionSkedulo": false
+    },
+    {
+      "id": "address",
+      "label": "Installation Address",
+      "name": "address",
+      "group": "validate",
+      "value": "753 E Platteville Blvd",
+      "textValue": "753 E Platteville Blvd",
+      "extraValues": {
+        "latitude": 38.36049,
+        "longitude": -104.70046
+      },
+      "open": false,
+      "descriptionSkedulo": false
+    },
+    {
+      "id": "unit",
+      "label": "Unit No.",
+      "name": "unit",
+      "group": "validate",
+      "value": "",
+      "textValue": "",
+      "extraValues": [],
+      "open": false,
+      "descriptionSkedulo": false
+    },
+    {
+      "id": "city",
+      "label": "City",
+      "name": "city",
+      "group": "validate",
+      "value": "Pueblo",
+      "textValue": "Pueblo",
+      "extraValues": [],
+      "open": false,
+      "descriptionSkedulo": false
+    },
+    {
+      "id": "state",
+      "label": "State",
+      "name": "state",
+      "group": "validate",
+      "value": "CO",
+      "textValue": "CO",
+      "extraValues": [],
+      "open": false,
+      "descriptionSkedulo": false
+    },
+    {
+      "id": "zip",
+      "label": "Zip Code",
+      "name": "zip",
+      "group": "validate",
+      "value": "81007",
+      "textValue": "81007",
+      "extraValues": [],
+      "open": false,
+      "descriptionSkedulo": false
+    },
+    {
+      "id": "termsAndConditions",
+      "label": "Terms and Conditions",
+      "name": "termsAndConditions",
+      "group": "validate",
+      "value": true,
+      "textValue": true,
+      "extraValues": {
+        "tandcReaded": true
+      },
+      "showOnSummary": false,
+      "open": false,
+      "descriptionSkedulo": false
+    }
+  ],
+  "ccv_response": [
+    {
+      "verification": {
+        "searchaddress": "753 E PLATTEVILLE BLVD, 81007",
+        "verified": true,
+        "message": "Account found",
+        "providerele": {
+          "verified": true,
+          "providercode": "",
+          "accountcode": "",
+          "accountnumber": ""
+        },
+        "providergas": {
+          "verified": true,
+          "providercode": "Colorado_Natural_Gas",
+          "accountcode": "MDAxNzkwMDAwMEdRS1J3QUFQ",
+          "accountnumber": "2022140"
+        }
+      },
+      "qualification": [
+        {
+          "measureclasslabel": "Thermostat",
+          "measureclassid": 7,
+          "productcategory": "Thermostat",
+          "categoryid": 7,
+          "qualified": true,
+          "quantitymax": 1,
+          "message": "",
+          "messagefooter": ""
+        },
+        {
+          "measureclasslabel": "Dehumidifier",
+          "measureclassid": 4,
+          "productcategory": "Dehumidifier",
+          "categoryid": 4,
+          "qualified": true,
+          "quantitymax": 1,
+          "message": "",
+          "messagefooter": ""
+        },
+        {
+          "measureclasslabel": "Air Purifier",
+          "measureclassid": 5,
+          "productcategory": "Air Purifier",
+          "categoryid": 5,
+          "qualified": true,
+          "quantitymax": 1,
+          "message": "",
+          "messagefooter": ""
+        },
+        {
+          "measureclasslabel": "Lighting",
+          "measureclassid": 6,
+          "productcategory": "Lighting",
+          "categoryid": 6,
+          "qualified": true,
+          "quantitymax": 1,
+          "message": "",
+          "messagefooter": ""
+        },
+        {
+          "measureclasslabel": "Advanced Power Strip",
+          "measureclassid": 8,
+          "productcategory": "Advanced Power Strip",
+          "categoryid": 8,
+          "qualified": true,
+          "quantitymax": 1,
+          "message": "",
+          "messagefooter": ""
+        },
+        {
+          "measureclasslabel": "Water Heater",
+          "measureclassid": 9,
+          "productcategory": "Water Heater",
+          "categoryid": 9,
+          "qualified": true,
+          "quantitymax": 1,
+          "message": "",
+          "messagefooter": ""
+        },
+        {
+          "measureclasslabel": "Air furnace",
+          "measureclassid": 2,
+          "productcategory": "Air furnace",
+          "categoryid": 2,
+          "qualified": true,
+          "quantitymax": 1,
+          "message": "",
+          "messagefooter": ""
+        },
+        {
+          "measureclasslabel": "Boiler",
+          "measureclassid": 1,
+          "productcategory": "Boiler",
+          "categoryid": 1,
+          "qualified": true,
+          "quantitymax": 1,
+          "message": "",
+          "messagefooter": ""
+        },
+        {
+          "measureclasslabel": "Dryer",
+          "measureclassid": 3,
+          "productcategory": "Dryer",
+          "categoryid": 3,
+          "qualified": true,
+          "quantitymax": 1,
+          "message": "",
+          "messagefooter": ""
+        },
+        {
+          "measureclasslabel": "High Efficiency Homes Bundle",
+          "measureclassid": 10,
+          "productcategory": "High Efficiency Homes Bundle",
+          "categoryid": 10,
+          "qualified": true,
+          "quantitymax": 1,
+          "message": "",
+          "messagefooter": ""
+        },
+        {
+          "measureclasslabel": "Natural Gas Cooking Range",
+          "measureclassid": 11,
+          "productcategory": "Natural Gas Cooking Range",
+          "categoryid": 11,
+          "qualified": true,
+          "quantitymax": 1,
+          "message": "",
+          "messagefooter": ""
+        }
+      ]
+    }
+  ],
+  "order_items": [
+    {
+      "product_option": {
+        "uenc": "aHR0cHM6Ly9lYy1zdGctc3VtbWl0dXRpbGl0aWVzLmNsZWFyZXN1bHQuaW8vbmF0dXJhbGdhcyAgd2F0ZXJoZWF0ZXI,",
+        "product": "788",
+        "selected_configurable_option": "",
+        "related_product": "",
+        "item": "788",
+        "qty": "1",
+        "eligibilityInfo": {
+          "result": true,
+          "customerValidation": [
+            {
+              "verification": {
+                "searchaddress": "753 E PLATTEVILLE BLVD, 81007",
+                "verified": true,
+                "message": "Account found",
+                "providerele": {
+                  "verified": true,
+                  "providercode": "",
+                  "accountcode": "",
+                  "accountnumber": ""
+                },
+                "providergas": {
+                  "verified": true,
+                  "providercode": "Colorado_Natural_Gas",
+                  "accountcode": "MDAxNzkwMDAwMEdRS1J3QUFQ",
+                  "accountnumber": "2022140"
+                }
+              },
+              "qualification": [
+                {
+                  "measureclasslabel": "Thermostat",
+                  "measureclassid": 7,
+                  "productcategory": "Thermostat",
+                  "categoryid": 7,
+                  "qualified": true,
+                  "quantitymax": 1,
+                  "message": "",
+                  "messagefooter": ""
+                },
+                {
+                  "measureclasslabel": "Dehumidifier",
+                  "measureclassid": 4,
+                  "productcategory": "Dehumidifier",
+                  "categoryid": 4,
+                  "qualified": true,
+                  "quantitymax": 1,
+                  "message": "",
+                  "messagefooter": ""
+                },
+                {
+                  "measureclasslabel": "Air Purifier",
+                  "measureclassid": 5,
+                  "productcategory": "Air Purifier",
+                  "categoryid": 5,
+                  "qualified": true,
+                  "quantitymax": 1,
+                  "message": "",
+                  "messagefooter": ""
+                },
+                {
+                  "measureclasslabel": "Lighting",
+                  "measureclassid": 6,
+                  "productcategory": "Lighting",
+                  "categoryid": 6,
+                  "qualified": true,
+                  "quantitymax": 1,
+                  "message": "",
+                  "messagefooter": ""
+                },
+                {
+                  "measureclasslabel": "Advanced Power Strip",
+                  "measureclassid": 8,
+                  "productcategory": "Advanced Power Strip",
+                  "categoryid": 8,
+                  "qualified": true,
+                  "quantitymax": 1,
+                  "message": "",
+                  "messagefooter": ""
+                },
+                {
+                  "measureclasslabel": "Water Heater",
+                  "measureclassid": 9,
+                  "productcategory": "Water Heater",
+                  "categoryid": 9,
+                  "qualified": true,
+                  "quantitymax": 1,
+                  "message": "",
+                  "messagefooter": ""
+                },
+                {
+                  "measureclasslabel": "Air furnace",
+                  "measureclassid": 2,
+                  "productcategory": "Air furnace",
+                  "categoryid": 2,
+                  "qualified": true,
+                  "quantitymax": 1,
+                  "message": "",
+                  "messagefooter": ""
+                },
+                {
+                  "measureclasslabel": "Boiler",
+                  "measureclassid": 1,
+                  "productcategory": "Boiler",
+                  "categoryid": 1,
+                  "qualified": true,
+                  "quantitymax": 1,
+                  "message": "",
+                  "messagefooter": ""
+                },
+                {
+                  "measureclasslabel": "Dryer",
+                  "measureclassid": 3,
+                  "productcategory": "Dryer",
+                  "categoryid": 3,
+                  "qualified": true,
+                  "quantitymax": 1,
+                  "message": "",
+                  "messagefooter": ""
+                },
+                {
+                  "measureclasslabel": "High Efficiency Homes Bundle",
+                  "measureclassid": 10,
+                  "productcategory": "High Efficiency Homes Bundle",
+                  "categoryid": 10,
+                  "qualified": true,
+                  "quantitymax": 1,
+                  "message": "",
+                  "messagefooter": ""
+                },
+                {
+                  "measureclasslabel": "Natural Gas Cooking Range",
+                  "measureclassid": 11,
+                  "productcategory": "Natural Gas Cooking Range",
+                  "categoryid": 11,
+                  "qualified": true,
+                  "quantitymax": 1,
+                  "message": "",
+                  "messagefooter": ""
+                }
+              ]
+            }
+          ],
+          "userInfoAnswers": [
+            {
+              "id": "selectUtility",
+              "label": "Service Provider",
+              "name": "selectUtility",
+              "group": "validate",
+              "value": "Colorado_Natural_Gas",
+              "textValue": "Colorado Natural Gas",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "typeOfUser",
+              "label": "Type Of User",
+              "name": "typeOfUser",
+              "group": "validate",
+              "value": "For_Your_Home",
+              "textValue": "For your home",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "companyName",
+              "label": "Company Name",
+              "name": "companyName",
+              "group": "validate",
+              "value": "",
+              "textValue": "",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "firstName",
+              "label": "Primary Account Holder First Name",
+              "name": "firstName",
+              "group": "validate",
+              "value": "Elmo",
+              "textValue": "Elmo",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "lastName",
+              "label": "Primary Account Holder Last Name",
+              "name": "lastName",
+              "group": "validate",
+              "value": "Abeyta",
+              "textValue": "Abeyta",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "emailAddress",
+              "label": "Email Address",
+              "name": "emailAddress",
+              "group": "validate",
+              "value": "andrew.watson+easum@clearesult.com",
+              "textValue": "andrew.watson+easum@clearesult.com",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "phoneNumber",
+              "label": "Phone Number",
+              "name": "phoneNumber",
+              "group": "validate",
+              "value": "1112223345",
+              "textValue": "1112223345",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "address",
+              "label": "Installation Address",
+              "name": "address",
+              "group": "validate",
+              "value": "753 E Platteville Blvd",
+              "textValue": "753 E Platteville Blvd",
+              "extraValues": {
+                "latitude": 38.36049,
+                "longitude": -104.70046
+              },
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "unit",
+              "label": "Unit No.",
+              "name": "unit",
+              "group": "validate",
+              "value": "",
+              "textValue": "",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "city",
+              "label": "City",
+              "name": "city",
+              "group": "validate",
+              "value": "Pueblo",
+              "textValue": "Pueblo",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "state",
+              "label": "State",
+              "name": "state",
+              "group": "validate",
+              "value": "CO",
+              "textValue": "CO",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "zip",
+              "label": "Zip Code",
+              "name": "zip",
+              "group": "validate",
+              "value": "81007",
+              "textValue": "81007",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "termsAndConditions",
+              "label": "Terms and Conditions",
+              "name": "termsAndConditions",
+              "group": "validate",
+              "value": true,
+              "textValue": true,
+              "extraValues": {
+                "tandcReaded": true
+              },
+              "showOnSummary": false,
+              "open": false,
+              "descriptionSkedulo": false
+            }
+          ],
+          "eligibilityAnswers": [],
+          "schedule": [],
+          "homeDetails": [],
+          "uploadFiles": [
+            {
+              "id": "uploadFile",
+              "label": "Upload File",
+              "name": "uploadFile",
+              "group": "upload",
+              "value": [
+                {
+                  "name": "taw94.jpg",
+                  "size": "16.95 KB",
+                  "path": "https://ec-stg-summitutilities.clearesult.io/media/eligibility_documents/customer/1850/taw94.jpg",
+                  "error": "",
+                  "progress": 100
+                }
+              ],
+              "textValue": "",
+              "extraValues": {
+                "filesCount": 1
+              },
+              "open": false,
+              "descriptionSkedulo": false
+            }
+          ],
+          "selectedDocumentsValues": [
+            "taw94.jpg"
+          ],
+          "measureInputs": [
+            {
+              "id": "brand_name",
+              "label": "Manufacturer",
+              "name": "brand_name",
+              "group": "ahri",
+              "value": "RINNAI",
+              "textValue": "RINNAI",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "model_number",
+              "label": "Model Number",
+              "name": "model_number",
+              "group": "ahri",
+              "value": "CU160E (REU-N2530WC-US)",
+              "textValue": "CU160E (REU-N2530WC-US)",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "quantity",
+              "label": "Quantity",
+              "name": "quantity",
+              "group": "ahri",
+              "value": "1",
+              "textValue": "1",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "building_type",
+              "label": "Building Type",
+              "name": "building_type",
+              "group": "ahri",
+              "value": "Single-Family",
+              "textValue": "Single-Family",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "date_installled",
+              "label": "Date Installed",
+              "name": "date_installled",
+              "group": "ahri",
+              "value": "2022-09-21T05:00:00.000Z",
+              "textValue": "09/21/2022",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "serial_number",
+              "label": "Serial Number",
+              "name": "serial_number",
+              "group": "ahri",
+              "value": "1",
+              "textValue": "1",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "purchase_date",
+              "label": "Purchase Date",
+              "name": "purchase_date",
+              "group": "ahri",
+              "value": "2022-09-21T05:00:00.000Z",
+              "textValue": "09/21/2022",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "purchase_price",
+              "label": "Purchase Price",
+              "name": "purchase_price",
+              "group": "ahri",
+              "value": "2500",
+              "textValue": "$2,500",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "existing_tank_size_gallons",
+              "label": "Existing Tank Size (gal)",
+              "name": "existing_tank_size_gallons",
+              "group": "ahri",
+              "value": "40",
+              "textValue": "40",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "ahri_number",
+              "label": "Enter AHRI Number, to autofill product info below.",
+              "name": "ahri_number",
+              "group": "ahri",
+              "value": "202102166",
+              "textValue": "202102166",
+              "extraValues": [],
+              "showOnSummary": true,
+              "open": false,
+              "descriptionSkedulo": false
+            }
+          ],
+          "measureOutputs": {
+            "data": {
+              "MeasureTypeID": 37459,
+              "MeasureSubtypeID": 37460,
+              "visibility": null,
+              "url_key": null,
+              "is_active_in_pim": null,
+              "Categories": null,
+              "Inactive": null,
+              "ProductImage__hotspots": null,
+              "data_source": "AHRI",
+              "category": "Hot Water",
+              "dataset": "Water Heaters",
+              "pd_id": "202102166",
+              "brand_name": "RINNAI",
+              "model_name": "CU160e",
+              "model_number": "CU160E (REU-N2530WC-US)",
+              "date_qualified": null,
+              "date_available": null,
+              "ProductImage": null,
+              "input_rate_1k_btu_per_hour": 160,
+              "storage_vol_gallons": "",
+              "type": "Instantaneous",
+              "uef": 0.93,
+              "fuel_type": "Both Natural Gas and Propane Gas",
+              "model_status": "Active",
+              "measure_id": 3067237,
+              "product_id": 3061484,
+              "gross_savings_therms": null,
+              "net_annual_natural_gas_savings_therms": null,
+              "life_energy_savings_therms": null,
+              "net_life_natural_gas_savings_therms": null,
+              "incentive_total": "300.00",
+              "customer_incentive": "300.00",
+              "incentive_unit": "300.0000",
+              "quantity": "1",
+              "date_installled": "2022-09-21",
+              "purchase_date": "2022,09,21",
+              "purchase_price": "2500",
+              "building_type": "Single-Family",
+              "existing_tank_size_gallons": "40",
+              "serial_number": "1",
+              "net_to_gross": "1",
+              "measure_life_years": "20",
+              "annual_water_use_gallons_yr": "14132.8",
+              "inlet_water_temperature": "53.34",
+              "indoor_units": []
+            }
+          },
+          "customerInformation": [
+            {
+              "id": "selectUtility",
+              "label": "Service Provider",
+              "name": "selectUtility",
+              "group": "validate",
+              "value": "Colorado_Natural_Gas",
+              "textValue": "Colorado Natural Gas",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "typeOfUser",
+              "label": "Type Of User",
+              "name": "typeOfUser",
+              "group": "validate",
+              "value": "For_Your_Home",
+              "textValue": "For your home",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "companyName",
+              "label": "Company Name",
+              "name": "companyName",
+              "group": "validate",
+              "value": "",
+              "textValue": "",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "firstName",
+              "label": "Primary Account Holder First Name",
+              "name": "firstName",
+              "group": "validate",
+              "value": "Elmo",
+              "textValue": "Elmo",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "lastName",
+              "label": "Primary Account Holder Last Name",
+              "name": "lastName",
+              "group": "validate",
+              "value": "Abeyta",
+              "textValue": "Abeyta",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "emailAddress",
+              "label": "Email Address",
+              "name": "emailAddress",
+              "group": "validate",
+              "value": "andrew.watson+easum@clearesult.com",
+              "textValue": "andrew.watson+easum@clearesult.com",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "phoneNumber",
+              "label": "Phone Number",
+              "name": "phoneNumber",
+              "group": "validate",
+              "value": "1112223345",
+              "textValue": "1112223345",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "address",
+              "label": "Installation Address",
+              "name": "address",
+              "group": "validate",
+              "value": "753 E Platteville Blvd",
+              "textValue": "753 E Platteville Blvd",
+              "extraValues": {
+                "latitude": 38.36049,
+                "longitude": -104.70046
+              },
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "unit",
+              "label": "Unit No.",
+              "name": "unit",
+              "group": "validate",
+              "value": "",
+              "textValue": "",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "city",
+              "label": "City",
+              "name": "city",
+              "group": "validate",
+              "value": "Pueblo",
+              "textValue": "Pueblo",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "state",
+              "label": "State",
+              "name": "state",
+              "group": "validate",
+              "value": "CO",
+              "textValue": "CO",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "zip",
+              "label": "Zip Code",
+              "name": "zip",
+              "group": "validate",
+              "value": "81007",
+              "textValue": "81007",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "termsAndConditions",
+              "label": "Terms and Conditions",
+              "name": "termsAndConditions",
+              "group": "validate",
+              "value": true,
+              "textValue": true,
+              "extraValues": {
+                "tandcReaded": true
+              },
+              "showOnSummary": false,
+              "open": false,
+              "descriptionSkedulo": false
+            }
+          ],
+          "payeeInformation": [
+            {
+              "": ""
+            },
+            {
+              "": ""
+            },
+            {
+              "": ""
+            },
+            {
+              "": ""
+            },
+            {
+              "": ""
+            },
+            {
+              "": ""
+            },
+            {
+              "": ""
+            },
+            {
+              "": ""
+            }
+          ],
+          "retailerInformation": [],
+          "contractorInformation": [
+            {
+              "id": "installation_type",
+              "label": "Installation Type",
+              "name": "installation_type",
+              "group": "contractor",
+              "value": "Self Installed",
+              "textValue": "Self Installed",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "contractorName",
+              "label": "Contractor Name",
+              "name": "contractorName",
+              "group": "contractor",
+              "value": "",
+              "textValue": "",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "address",
+              "label": "Contractor Address",
+              "name": "address",
+              "group": "contractor",
+              "value": "",
+              "textValue": "",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "city",
+              "label": "Contractor City",
+              "name": "city",
+              "group": "contractor",
+              "value": "",
+              "textValue": "",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "state",
+              "label": "Contractor State",
+              "name": "state",
+              "group": "contractor",
+              "value": "",
+              "textValue": "",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "zip",
+              "label": "Contractor Zip",
+              "name": "zip",
+              "group": "contractor",
+              "value": "",
+              "textValue": "",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "contractorPhone",
+              "label": "Contractor Phone",
+              "name": "contractorPhone",
+              "group": "contractor",
+              "value": "",
+              "textValue": "",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            }
+          ],
+          "accountValidated": true,
+          "extraValuesByClass": []
+        }
+      },
+      "item_id": "7269",
+      "parent_item_id": null,
+      "quote_item_id": "9291",
+      "sku": "3067237",
+      "name": "Natural Gas Water Heater",
+      "qty_ordered": "1.0000",
+      "base_cost": null,
+      "price": "0.0000",
+      "row_total": "0.0000",
+      "incentive_amount": null,
+      "incentive_type": "rebate",
+      "coupon": [],
+      "measure_id": "3067237",
+      "program_id": null,
+      "measure_inputs": [
+        {
+          "id": "selectUtility",
+          "name": "selectUtility",
+          "label": "Select Utility",
+          "group": "validate",
+          "placeholder": "Select one",
+          "field": {
+            "values": [
+              {
+                "label": "Arkansas Oklahoma Gas",
+                "value": "Arkansas_Oklahoma_Gas"
+              },
+              {
+                "label": "Colorado Natural Gas",
+                "value": "Colorado_Natural_Gas"
+              },
+              {
+                "label": "Summit Natural Gas of Missouri",
+                "value": "Summit_Natural_Gas_of_Missouri"
+              },
+              {
+                "label": "Summit Utilities of Arkansas",
+                "value": "Summit_Utilities_of_Arkansas"
+              },
+              {
+                "label": "Summit Utilities of Oklahoma",
+                "value": "Summit_Utilities_of_Oklahoma"
+              }
+            ],
+            "validators": [
+              "required"
+            ],
+            "errorMessages": [
+              "This field is required"
+            ]
+          }
+        },
+        {
+          "id": "firstName",
+          "name": "firstName",
+          "label": "Primary Account Holder First Name",
+          "group": "validate",
+          "placeholder": "Ex. John",
+          "field": {
+            "validators": [],
+            "errorMessages": []
+          }
+        },
+        {
+          "id": "lastName",
+          "name": "lastName",
+          "label": "Primary Account Holder Last Name",
+          "group": "validate",
+          "placeholder": "Ex. Smith",
+          "field": {
+            "validators": [],
+            "errorMessages": []
+          }
+        },
+        {
+          "id": "companyName",
+          "name": "companyName",
+          "label": "Company Name",
+          "group": "validate",
+          "placeholder": "Ex. John",
+          "field": {
+            "validators": [],
+            "errorMessages": []
+          }
+        },
+        {
+          "id": "emailAddress",
+          "name": "emailAddress",
+          "label": "Email Address",
+          "group": "validate",
+          "placeholder": "Ex. john.smith@email.com",
+          "field": {
+            "validators": [
+              "required",
+              "isEmail",
+              "maxStringLength:64"
+            ],
+            "errorMessages": [
+              "This field is required",
+              "Please enter a valid email address. Ex: mary@domain.com",
+              "Must not exceed 64 characters"
+            ]
+          }
+        },
+        {
+          "id": "phoneNumber",
+          "name": "phoneNumber",
+          "label": "Phone Number",
+          "group": "validate",
+          "placeholder": "Ex. 123-456-7890",
+          "field": {
+            "validators": [
+              "required",
+              "matchRegexp:([0-9]{3})([ .-]?)([0-9]{3})\\2([0-9]{4})"
+            ],
+            "errorMessages": [
+              "This field is required",
+              "Please enter a valid 10 numerical digits phone number"
+            ]
+          }
+        },
+        {
+          "id": "address",
+          "name": "address",
+          "label": "Installation Address",
+          "group": "validate",
+          "placeholder": "Ex. 123 Main Street Drive",
+          "field": {
+            "options": "stateOptions",
+            "validators": [
+              "required"
+            ],
+            "errorMessages": [
+              "This field is required"
+            ]
+          }
+        },
+        {
+          "id": "unit",
+          "name": "unit",
+          "label": "Unit No.",
+          "group": "validate",
+          "placeholder": "",
+          "field": {
+            "validators": [
+              "maxStringLength:10"
+            ],
+            "errorMessages": [
+              "Please enter a valid Unit # (Must not exceed 10 characters)"
+            ]
+          }
+        },
+        {
+          "id": "city",
+          "name": "city",
+          "label": "City",
+          "group": "validate",
+          "placeholder": "Ex. San Francisco",
+          "field": {
+            "validators": [
+              "required",
+              "maxStringLength:50"
+            ],
+            "errorMessages": [
+              "This field is required",
+              "Please enter a valid City (Must not exceed 50 characters)"
+            ]
+          }
+        },
+        {
+          "id": "state",
+          "name": "state",
+          "label": "State",
+          "group": "validate",
+          "placeholder": "Select one",
+          "field": {
+            "values": [],
+            "options": "stateOptions",
+            "validators": [
+              "required"
+            ],
+            "errorMessages": [
+              "This field is required"
+            ]
+          }
+        },
+        {
+          "id": "zip",
+          "name": "zip",
+          "label": "Zip Code",
+          "group": "validate",
+          "placeholder": "Ex. 12345",
+          "field": {
+            "validators": [
+              "required",
+              "isNumber",
+              "maxStringLength:5",
+              "minStringLength:5"
+            ],
+            "errorMessages": [
+              "This field is required",
+              "Please enter a valid five-digit numerical ZIP Code"
+            ]
+          }
+        },
+        {
+          "id": "termsAndConditions",
+          "name": "termsAndConditions",
+          "label": "Terms and Conditions",
+          "scope": "program",
+          "content": "",
+          "group": "validate",
+          "field": {
+            "showOnSummary": false
+          }
+        },
+        {
+          "id": "uploadFile",
+          "name": "uploadFile",
+          "label": "Upload File",
+          "group": "upload",
+          "field": {
+            "validators": [
+              "required"
+            ],
+            "fileTypes": [
+              ".pdf",
+              ".jpg",
+              ".jpeg",
+              ".png"
+            ],
+            "fileMaxSize": 2,
+            "errorMessages": [
+              "This field is required"
+            ]
+          }
+        },
+        {
+          "id": "brand_name",
+          "name": "brand_name",
+          "label": "Manufacturer",
+          "group": "ahri",
+          "placeholder": "Start typing a manufacturer",
+          "field": {
+            "values": [],
+            "validators": [
+              "required"
+            ],
+            "errorMessages": [
+              "This field is required"
+            ]
+          }
+        },
+        {
+          "id": "model_number",
+          "name": "model_number",
+          "label": "Model Number",
+          "group": "ahri",
+          "placeholder": "Start typing model number",
+          "field": {
+            "validators": [
+              "required"
+            ],
+            "errorMessages": [
+              "This field is required"
+            ]
+          }
+        },
+        {
+          "id": "quantity",
+          "name": "quantity",
+          "label": "Quantity",
+          "group": "ahri",
+          "placeholder": "Number of items",
+          "field": {
+            "validators": [
+              "required",
+              "isNumber",
+              "maxStringLength:4"
+            ],
+            "errorMessages": [
+              "This field is required",
+              "Please enter a valid Number of items",
+              "Please enter a valid Number of items"
+            ]
+          }
+        },
+        {
+          "id": "building_type",
+          "name": "building_type",
+          "label": "Building Type",
+          "group": "ahri",
+          "placeholder": "Select one",
+          "field": {
+            "values": [
+              {
+                "label": "Single-Family",
+                "value": "Single-Family"
+              },
+              {
+                "label": "Multi-Family",
+                "value": "Multi-Family"
+              }
+            ],
+            "validators": [],
+            "errorMessages": []
+          }
+        },
+        {
+          "id": "conditioned_area_sqft",
+          "name": "conditioned_area_sqft",
+          "label": "Conditioned Area (sqft)",
+          "group": "ahri",
+          "placeholder": "EX 1234",
+          "field": {
+            "validators": [
+              "required",
+              "isNumber",
+              "maxStringLength:4"
+            ],
+            "errorMessages": [
+              "This field is required"
+            ]
+          }
+        },
+        {
+          "id": "date_installled",
+          "name": "date_installled",
+          "label": "Date Installed",
+          "group": "ahri",
+          "placeholder": "MM/DD/YYYY",
+          "field": {
+            "validators": [
+              "required",
+              "maxStringLength:45"
+            ],
+            "errorMessages": [
+              "This field is required",
+              "Please enter a Installation Date (Must not exceed 45 characters)"
+            ],
+            "disableFuture": true,
+            "disablePast": false,
+            "format": "MM/DD/YYYY"
+          }
+        },
+        {
+          "id": "serial_number",
+          "name": "serial_number",
+          "label": "Serial Number",
+          "group": "ahri",
+          "placeholder": "EX 1234",
+          "field": {
+            "validators": [
+              "required",
+              "maxStringLength:20"
+            ],
+            "errorMessages": [
+              "This field is required",
+              "Max Length 20"
+            ]
+          }
+        },
+        {
+          "id": "purchase_date",
+          "name": "purchase_date",
+          "label": "Purchase Date",
+          "group": "ahri",
+          "placeholder": "MM/DD/YYYY",
+          "field": {
+            "validators": [
+              "required",
+              "maxStringLength:45"
+            ],
+            "errorMessages": [
+              "This field is required",
+              "Please enter a valid Purchase Date (Must not exceed 45 characters)"
+            ],
+            "disableFuture": true,
+            "disablePast": false,
+            "format": "MM/DD/YYYY"
+          }
+        },
+        {
+          "id": "purchase_price",
+          "name": "purchase_price",
+          "label": "Purchase Price",
+          "group": "ahri",
+          "placeholder": "$0.00",
+          "field": {
+            "validators": [
+              "required",
+              "maxStringLength:45"
+            ],
+            "errorMessages": [
+              "This field is required",
+              "Please enter a valid Purchase Price (Must not exceed 45 characters)"
+            ]
+          }
+        },
+        {
+          "id": "year_built",
+          "name": "year_built",
+          "label": "Year Built",
+          "group": "ahri",
+          "placeholder": "Enter Year",
+          "field": {
+            "values": [],
+            "validators": [
+              "required"
+            ],
+            "errorMessages": [
+              "This field is required"
+            ]
+          }
+        },
+        {
+          "id": "installation_zip_code",
+          "name": "installation_zip_code",
+          "label": "Installation Zip Code",
+          "group": "ahri",
+          "placeholder": "Ex. 12345",
+          "field": {
+            "validators": [
+              "required"
+            ],
+            "errorMessages": [
+              "This field is required"
+            ]
+          }
+        },
+        {
+          "id": "exisiting_furnace_make",
+          "name": "exisiting_furnace_make",
+          "label": "Exisiting Furnace Make",
+          "group": "ahri",
+          "placeholder": "",
+          "field": {
+            "validators": [
+              "required"
+            ],
+            "errorMessages": [
+              "This field is required"
+            ]
+          }
+        },
+        {
+          "id": "exisitng_furnace_serial_number",
+          "name": "exisitng_furnace_serial_number",
+          "label": "Exisitng Furnace Serial Number",
+          "group": "ahri",
+          "placeholder": "",
+          "field": {
+            "validators": [
+              "required"
+            ],
+            "errorMessages": [
+              "This field is required"
+            ]
+          }
+        },
+        {
+          "id": "exisitng_model",
+          "name": "exisitng_model",
+          "label": "Exisiting Model",
+          "group": "ahri",
+          "placeholder": "",
+          "field": {
+            "validators": [
+              "required"
+            ],
+            "errorMessages": [
+              "This field is required"
+            ]
+          }
+        },
+        {
+          "id": "installation_type",
+          "name": "installation_type",
+          "label": "Installation Type",
+          "group": "contractor",
+          "placeholder": "Select one",
+          "field": {
+            "values": [
+              {
+                "label": "Self Installed",
+                "value": "Self Installed"
+              },
+              {
+                "label": "Contractor",
+                "value": "Contractor"
+              }
+            ],
+            "validators": [],
+            "errorMessages": []
+          }
+        },
+        {
+          "id": "contractorName",
+          "name": "contractorName",
+          "label": "Contractor Name",
+          "group": "contractor",
+          "placeholder": "Ex. John",
+          "field": {
+            "validators": [],
+            "errorMessages": []
+          }
+        },
+        {
+          "id": "address",
+          "name": "address",
+          "label": "Contractor Address",
+          "group": "contractor",
+          "placeholder": "Ex. 123 Main Street Drive",
+          "field": {
+            "options": "stateOptions",
+            "validators": [],
+            "errorMessages": []
+          }
+        },
+        {
+          "id": "city",
+          "name": "city",
+          "label": "Contractor City",
+          "group": "contractor",
+          "placeholder": "Ex. San Francisco",
+          "field": {
+            "validators": [],
+            "errorMessages": []
+          }
+        },
+        {
+          "id": "state",
+          "name": "state",
+          "label": "Contractor State",
+          "group": "contractor",
+          "placeholder": "Select one",
+          "field": {
+            "values": [],
+            "options": "stateOptions",
+            "validators": [],
+            "errorMessages": []
+          }
+        },
+        {
+          "id": "zip",
+          "name": "zip",
+          "label": "Contractor Zip",
+          "group": "contractor",
+          "placeholder": "Ex. 12345",
+          "field": {
+            "validators": [],
+            "errorMessages": []
+          }
+        },
+        {
+          "id": "contractorPhone",
+          "name": "contractorPhone",
+          "label": "Contractor Phone",
+          "group": "contractor",
+          "placeholder": "Ex. 123-456-7890",
+          "field": {
+            "validators": [],
+            "errorMessages": []
+          }
+        },
+        {
+          "": ""
+        },
+        {
+          "": ""
+        },
+        {
+          "": ""
+        },
+        {
+          "": ""
+        },
+        {
+          "": ""
+        },
+        {
+          "": ""
+        },
+        {
+          "": ""
+        },
+        {
+          "": ""
+        }
+      ],
+      "schedule": [],
+      "attachments": [
+        {
+          "filename": "taw94.jpg",
+          "download_url": "https://ec-stg.clearesult.io/media/eligibility_documents/order/6547/taw94.jpg"
+        }
+      ],
+      "truncate_zip_code": false
+    },
+    {
+      "product_option": {
+        "uenc": "aHR0cHM6Ly9lYy1zdGctc3VtbWl0dXRpbGl0aWVzLmNsZWFyZXN1bHQuaW8vcmVzaWRlbnRpYWwgc21hcnR0aGVybW9zdGF0",
+        "product": "779",
+        "selected_configurable_option": "",
+        "related_product": "",
+        "item": "779",
+        "qty": "1",
+        "eligibilityInfo": {
+          "result": true,
+          "customerValidation": [
+            {
+              "verification": {
+                "searchaddress": "753 E PLATTEVILLE BLVD, 81007",
+                "verified": true,
+                "message": "Account found",
+                "providerele": {
+                  "verified": true,
+                  "providercode": "",
+                  "accountcode": "",
+                  "accountnumber": ""
+                },
+                "providergas": {
+                  "verified": true,
+                  "providercode": "Colorado_Natural_Gas",
+                  "accountcode": "MDAxNzkwMDAwMEdRS1J3QUFQ",
+                  "accountnumber": "2022140"
+                }
+              },
+              "qualification": [
+                {
+                  "measureclasslabel": "Thermostat",
+                  "measureclassid": 7,
+                  "productcategory": "Thermostat",
+                  "categoryid": 7,
+                  "qualified": true,
+                  "quantitymax": 1,
+                  "message": "",
+                  "messagefooter": ""
+                },
+                {
+                  "measureclasslabel": "Dehumidifier",
+                  "measureclassid": 4,
+                  "productcategory": "Dehumidifier",
+                  "categoryid": 4,
+                  "qualified": true,
+                  "quantitymax": 1,
+                  "message": "",
+                  "messagefooter": ""
+                },
+                {
+                  "measureclasslabel": "Air Purifier",
+                  "measureclassid": 5,
+                  "productcategory": "Air Purifier",
+                  "categoryid": 5,
+                  "qualified": true,
+                  "quantitymax": 1,
+                  "message": "",
+                  "messagefooter": ""
+                },
+                {
+                  "measureclasslabel": "Lighting",
+                  "measureclassid": 6,
+                  "productcategory": "Lighting",
+                  "categoryid": 6,
+                  "qualified": true,
+                  "quantitymax": 1,
+                  "message": "",
+                  "messagefooter": ""
+                },
+                {
+                  "measureclasslabel": "Advanced Power Strip",
+                  "measureclassid": 8,
+                  "productcategory": "Advanced Power Strip",
+                  "categoryid": 8,
+                  "qualified": true,
+                  "quantitymax": 1,
+                  "message": "",
+                  "messagefooter": ""
+                },
+                {
+                  "measureclasslabel": "Water Heater",
+                  "measureclassid": 9,
+                  "productcategory": "Water Heater",
+                  "categoryid": 9,
+                  "qualified": true,
+                  "quantitymax": 1,
+                  "message": "",
+                  "messagefooter": ""
+                },
+                {
+                  "measureclasslabel": "Air furnace",
+                  "measureclassid": 2,
+                  "productcategory": "Air furnace",
+                  "categoryid": 2,
+                  "qualified": true,
+                  "quantitymax": 1,
+                  "message": "",
+                  "messagefooter": ""
+                },
+                {
+                  "measureclasslabel": "Boiler",
+                  "measureclassid": 1,
+                  "productcategory": "Boiler",
+                  "categoryid": 1,
+                  "qualified": true,
+                  "quantitymax": 1,
+                  "message": "",
+                  "messagefooter": ""
+                },
+                {
+                  "measureclasslabel": "Dryer",
+                  "measureclassid": 3,
+                  "productcategory": "Dryer",
+                  "categoryid": 3,
+                  "qualified": true,
+                  "quantitymax": 1,
+                  "message": "",
+                  "messagefooter": ""
+                },
+                {
+                  "measureclasslabel": "High Efficiency Homes Bundle",
+                  "measureclassid": 10,
+                  "productcategory": "High Efficiency Homes Bundle",
+                  "categoryid": 10,
+                  "qualified": true,
+                  "quantitymax": 1,
+                  "message": "",
+                  "messagefooter": ""
+                },
+                {
+                  "measureclasslabel": "Natural Gas Cooking Range",
+                  "measureclassid": 11,
+                  "productcategory": "Natural Gas Cooking Range",
+                  "categoryid": 11,
+                  "qualified": true,
+                  "quantitymax": 1,
+                  "message": "",
+                  "messagefooter": ""
+                }
+              ]
+            }
+          ],
+          "userInfoAnswers": [
+            {
+              "id": "selectUtility",
+              "label": "Service Provider",
+              "name": "selectUtility",
+              "group": "validate",
+              "value": "Colorado_Natural_Gas",
+              "textValue": "Colorado Natural Gas",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "typeOfUser",
+              "label": "Type Of User",
+              "name": "typeOfUser",
+              "group": "validate",
+              "value": "For_Your_Home",
+              "textValue": "For your home",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "companyName",
+              "label": "Company Name",
+              "name": "companyName",
+              "group": "validate",
+              "value": "",
+              "textValue": "",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "firstName",
+              "label": "Primary Account Holder First Name",
+              "name": "firstName",
+              "group": "validate",
+              "value": "Elmo",
+              "textValue": "Elmo",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "lastName",
+              "label": "Primary Account Holder Last Name",
+              "name": "lastName",
+              "group": "validate",
+              "value": "Abeyta",
+              "textValue": "Abeyta",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "emailAddress",
+              "label": "Email Address",
+              "name": "emailAddress",
+              "group": "validate",
+              "value": "andrew.watson+easum@clearesult.com",
+              "textValue": "andrew.watson+easum@clearesult.com",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "phoneNumber",
+              "label": "Phone Number",
+              "name": "phoneNumber",
+              "group": "validate",
+              "value": "1112223345",
+              "textValue": "1112223345",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "address",
+              "label": "Installation Address",
+              "name": "address",
+              "group": "validate",
+              "value": "753 E Platteville Blvd",
+              "textValue": "753 E Platteville Blvd",
+              "extraValues": {
+                "latitude": 38.36049,
+                "longitude": -104.70046
+              },
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "unit",
+              "label": "Unit No.",
+              "name": "unit",
+              "group": "validate",
+              "value": "",
+              "textValue": "",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "city",
+              "label": "City",
+              "name": "city",
+              "group": "validate",
+              "value": "Pueblo",
+              "textValue": "Pueblo",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "state",
+              "label": "State",
+              "name": "state",
+              "group": "validate",
+              "value": "CO",
+              "textValue": "CO",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "zip",
+              "label": "Zip Code",
+              "name": "zip",
+              "group": "validate",
+              "value": "81007",
+              "textValue": "81007",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "termsAndConditions",
+              "label": "Terms and Conditions",
+              "name": "termsAndConditions",
+              "group": "validate",
+              "value": true,
+              "textValue": true,
+              "extraValues": {
+                "tandcReaded": true
+              },
+              "showOnSummary": false,
+              "open": false,
+              "descriptionSkedulo": false
+            }
+          ],
+          "eligibilityAnswers": [],
+          "schedule": [],
+          "homeDetails": [],
+          "uploadFiles": [
+            {
+              "id": "uploadFile",
+              "label": "Upload File",
+              "name": "uploadFile",
+              "group": "upload",
+              "value": "",
+              "textValue": "",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            }
+          ],
+          "selectedDocumentsValues": [
+            "taw94.jpg"
+          ],
+          "measureInputs": [
+            {
+              "id": "brand_name",
+              "label": "Manufacturer",
+              "name": "brand_name",
+              "group": "product",
+              "value": {
+                "value": "Trane",
+                "label": "Trane"
+              },
+              "textValue": "Trane",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "model_number",
+              "label": "Model Number",
+              "name": "model_number",
+              "group": "product",
+              "value": {
+                "value": "3069280",
+                "label": "XL824"
+              },
+              "textValue": "XL824",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "quantity",
+              "label": "Quantity",
+              "name": "quantity",
+              "group": "product",
+              "value": "1",
+              "textValue": "1",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "building_type",
+              "label": "Building Type",
+              "name": "building_type",
+              "group": "product",
+              "value": "Single-Family",
+              "textValue": "Single-Family",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "conditioned_area_sqft",
+              "label": "Conditioned Area (sqft)",
+              "name": "conditioned_area_sqft",
+              "group": "product",
+              "value": "1111",
+              "textValue": "1111",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "existing_thermostat_type",
+              "label": "Existing Thermostat Type",
+              "name": "existing_thermostat_type",
+              "group": "product",
+              "value": "Manual",
+              "textValue": "Manual",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "cooling_system_type",
+              "label": "Cooling System Type",
+              "name": "cooling_system_type",
+              "group": "product",
+              "value": "Central Air Conditioner",
+              "textValue": "Central Air Conditioner",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "heating_system_type",
+              "label": "Heating System Type",
+              "name": "heating_system_type",
+              "group": "product",
+              "value": "Gas Heating",
+              "textValue": "Gas Heating",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "date_installled",
+              "label": "Date Installed",
+              "name": "date_installled",
+              "group": "product",
+              "value": "2022-10-18T05:00:00.000Z",
+              "textValue": "10/18/2022",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "serial_number",
+              "label": "Serial Number",
+              "name": "serial_number",
+              "group": "product",
+              "value": "1",
+              "textValue": "1",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "purchase_date",
+              "label": "Purchase Date",
+              "name": "purchase_date",
+              "group": "product",
+              "value": "2022-10-18T05:00:00.000Z",
+              "textValue": "10/18/2022",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "purchase_price",
+              "label": "Purchase Price",
+              "name": "purchase_price",
+              "group": "product",
+              "value": "700",
+              "textValue": "$700",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "retailer_name",
+              "label": "Retailer Name",
+              "name": "retailer_name",
+              "group": "product",
+              "value": "Lowes",
+              "textValue": "Lowes",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            }
+          ],
+          "measureOutputs": {
+            "data": {
+              "MeasureTypeID": 13938,
+              "MeasureSubtypeID": 40956,
+              "visibility": null,
+              "url_key": null,
+              "is_active_in_pim": null,
+              "Categories": null,
+              "Inactive": null,
+              "ProductImage__hotspots": null,
+              "data_source": "EnergyStar",
+              "category": "HVAC",
+              "dataset": "Smart Thermostats",
+              "pd_id": "2336674",
+              "brand_name": "Trane",
+              "model_name": "XL824",
+              "model_number": "XL824",
+              "date_qualified": "2019-04-12T02:00:00",
+              "date_available": "2019-04-05T02:00:00",
+              "ProductImage": null,
+              "energy_star_partner": "Trane and American Standard Heating and Air Conditioning",
+              "device_brand_owner": "Trane",
+              "device_brand_name": "Trane",
+              "device_model_name": "XL824",
+              "device_model_number": "TCONT824AS52DB",
+              "family_id": "FAM_1075581_04052019093434_9125512",
+              "static_temperature_accuracy": 0.73,
+              "standby_power_w": 1.9,
+              "time_to_enter_network_standby": 30,
+              "heating_and_cooling_control_features": "Geofencing (User Device Based),External Temperature Detection,Additional Home Temperature Sensor,Other,Humidity Sensing",
+              "device_communication_method": "Wi-Fi,Z-Wave",
+              "demand_response_summary": "Ingersoll Rand is committed to supporting Demand Response (DR) programs with utilities across the United States. As such, the XL824 CT is Title 24 compliant, open ADR compatible, and has both cloud and local APIs to support DR. It also supports utility DR control through a portal designed specifically for utility use. For improved comfort, we support DR events that follow a consumer configurable setpoint, and allow override by subsequent setpoint changes made by the consumer. We also provide a specific operating mode for variable capacity systems DR that triggers a minimum capacity mode rather than a full off.",
+              "markets": "United States, Canada",
+              "energy_star_model_id": "ES_1075581_TCONT824AS52DBA_04052019093434_6174890",
+              "measure_id": 3066756,
+              "product_id": 3069280,
+              "net_annual_energy_savings_therms": "452.1770",
+              "annual_electric_energy_savings_kwh": "499.9500",
+              "net_annual_electric_energy_savings_kwh": "499.9500",
+              "life_energy_savings_kwh": "5499.4500",
+              "life_energy_savings_therms": "452.1770",
+              "net_life_energy_savings_kwh": "5499.4500",
+              "net_life_natural_gas_savings_therms": "452.1770",
+              "incentive_total": "50.00",
+              "customer_incentive": "50.00",
+              "gross_savings_therms": "41.1070",
+              "incentive_unit": "50",
+              "building_type": "Single-Family",
+              "existing_thermostat_type": "Manual",
+              "cooling_system_type": "Central Air Conditioner",
+              "heating_system_type": "Gas Heating",
+              "date_installled": "2022-10-18",
+              "purchase_date": "2022,10,18",
+              "purchase_price": "700",
+              "conditioned_area_sqft": "1111",
+              "retailer_name": "Lowes",
+              "serial_number": "1",
+              "factor_1": "0.45",
+              "factor_2": "0",
+              "factor_3": "0.037",
+              "quantity": "1",
+              "measure_life_years": "11",
+              "net_to_gross": "1",
+              "sc_peak_demand_savings_kw": "0",
+              "indoor_units": []
+            }
+          },
+          "customerInformation": [
+            {
+              "id": "selectUtility",
+              "label": "Service Provider",
+              "name": "selectUtility",
+              "group": "validate",
+              "value": "Colorado_Natural_Gas",
+              "textValue": "Colorado Natural Gas",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "typeOfUser",
+              "label": "Type Of User",
+              "name": "typeOfUser",
+              "group": "validate",
+              "value": "For_Your_Home",
+              "textValue": "For your home",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "companyName",
+              "label": "Company Name",
+              "name": "companyName",
+              "group": "validate",
+              "value": "",
+              "textValue": "",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "firstName",
+              "label": "Primary Account Holder First Name",
+              "name": "firstName",
+              "group": "validate",
+              "value": "Elmo",
+              "textValue": "Elmo",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "lastName",
+              "label": "Primary Account Holder Last Name",
+              "name": "lastName",
+              "group": "validate",
+              "value": "Abeyta",
+              "textValue": "Abeyta",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "emailAddress",
+              "label": "Email Address",
+              "name": "emailAddress",
+              "group": "validate",
+              "value": "andrew.watson+easum@clearesult.com",
+              "textValue": "andrew.watson+easum@clearesult.com",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "phoneNumber",
+              "label": "Phone Number",
+              "name": "phoneNumber",
+              "group": "validate",
+              "value": "1112223345",
+              "textValue": "1112223345",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "address",
+              "label": "Installation Address",
+              "name": "address",
+              "group": "validate",
+              "value": "753 E Platteville Blvd",
+              "textValue": "753 E Platteville Blvd",
+              "extraValues": {
+                "latitude": 38.36049,
+                "longitude": -104.70046
+              },
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "unit",
+              "label": "Unit No.",
+              "name": "unit",
+              "group": "validate",
+              "value": "",
+              "textValue": "",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "city",
+              "label": "City",
+              "name": "city",
+              "group": "validate",
+              "value": "Pueblo",
+              "textValue": "Pueblo",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "state",
+              "label": "State",
+              "name": "state",
+              "group": "validate",
+              "value": "CO",
+              "textValue": "CO",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "zip",
+              "label": "Zip Code",
+              "name": "zip",
+              "group": "validate",
+              "value": "81007",
+              "textValue": "81007",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "termsAndConditions",
+              "label": "Terms and Conditions",
+              "name": "termsAndConditions",
+              "group": "validate",
+              "value": true,
+              "textValue": true,
+              "extraValues": {
+                "tandcReaded": true
+              },
+              "showOnSummary": false,
+              "open": false,
+              "descriptionSkedulo": false
+            }
+          ],
+          "payeeInformation": [
+            {
+              "": ""
+            },
+            {
+              "": ""
+            },
+            {
+              "": ""
+            },
+            {
+              "": ""
+            },
+            {
+              "": ""
+            },
+            {
+              "": ""
+            },
+            {
+              "": ""
+            },
+            {
+              "": ""
+            }
+          ],
+          "retailerInformation": [],
+          "contractorInformation": [
+            {
+              "id": "installation_type",
+              "label": "Installation Type",
+              "name": "installation_type",
+              "group": "contractor",
+              "value": "Self Installed",
+              "textValue": "Self Installed",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "contractorName",
+              "label": "Contractor Name",
+              "name": "contractorName",
+              "group": "contractor",
+              "value": "",
+              "textValue": "",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "address",
+              "label": "Contractor Address",
+              "name": "address",
+              "group": "contractor",
+              "value": "",
+              "textValue": "",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "city",
+              "label": "Contractor City",
+              "name": "city",
+              "group": "contractor",
+              "value": "",
+              "textValue": "",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "state",
+              "label": "Contractor State",
+              "name": "state",
+              "group": "contractor",
+              "value": "",
+              "textValue": "",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "zip",
+              "label": "Contractor Zip",
+              "name": "zip",
+              "group": "contractor",
+              "value": "",
+              "textValue": "",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            },
+            {
+              "id": "contractorPhone",
+              "label": "Contractor Phone",
+              "name": "contractorPhone",
+              "group": "contractor",
+              "value": "",
+              "textValue": "",
+              "extraValues": [],
+              "open": false,
+              "descriptionSkedulo": false
+            }
+          ],
+          "accountValidated": true,
+          "extraValuesByClass": []
+        }
+      },
+      "item_id": "7270",
+      "parent_item_id": null,
+      "quote_item_id": "9292",
+      "sku": "3066756",
+      "name": "Residential Smart Thermostat",
+      "qty_ordered": "1.0000",
+      "base_cost": null,
+      "price": "0.0000",
+      "row_total": "0.0000",
+      "incentive_amount": null,
+      "incentive_type": "rebate",
+      "coupon": [],
+      "measure_id": "3066756",
+      "program_id": null,
+      "measure_inputs": [
+        {
+          "id": "selectUtility",
+          "name": "selectUtility",
+          "label": "Select Utility",
+          "group": "validate",
+          "placeholder": "Select one",
+          "field": {
+            "values": [
+              {
+                "label": "Arkansas Oklahoma Gas",
+                "value": "Arkansas_Oklahoma_Gas"
+              },
+              {
+                "label": "Colorado Natural Gas",
+                "value": "Colorado_Natural_Gas"
+              },
+              {
+                "label": "Summit Natural Gas of Missouri",
+                "value": "Summit_Natural_Gas_of_Missouri"
+              },
+              {
+                "label": "Summit Utilities of Arkansas",
+                "value": "Summit_Utilities_of_Arkansas"
+              },
+              {
+                "label": "Summit Utilities of Oklahoma",
+                "value": "Summit_Utilities_of_Oklahoma"
+              }
+            ],
+            "validators": [
+              "required"
+            ],
+            "errorMessages": [
+              "This field is required"
+            ]
+          }
+        },
+        {
+          "id": "firstName",
+          "name": "firstName",
+          "label": "Primary Account Holder First Name",
+          "group": "validate",
+          "placeholder": "Ex. John",
+          "field": {
+            "validators": [
+              "required",
+              "maxStringLength:45"
+            ],
+            "errorMessages": [
+              "This field is required",
+              "Please enter a valid Primary Account Holder First Name (Must not exceed 45 characters)"
+            ]
+          }
+        },
+        {
+          "id": "lastName",
+          "name": "lastName",
+          "label": "Primary Account Holder Last Name",
+          "group": "validate",
+          "placeholder": "Ex. Smith",
+          "field": {
+            "validators": [
+              "required",
+              "maxStringLength:45"
+            ],
+            "errorMessages": [
+              "This field is required",
+              "Please enter a valid Primary Account Holder Last Name (Must not exceed 45 characters)"
+            ]
+          }
+        },
+        {
+          "id": "emailAddress",
+          "name": "emailAddress",
+          "label": "Email Address",
+          "group": "validate",
+          "placeholder": "Ex. john.smith@email.com",
+          "field": {
+            "validators": [
+              "required",
+              "isEmail",
+              "maxStringLength:64"
+            ],
+            "errorMessages": [
+              "This field is required",
+              "Please enter a valid email address. Ex: mary@domain.com",
+              "Must not exceed 64 characters"
+            ]
+          }
+        },
+        {
+          "id": "phoneNumber",
+          "name": "phoneNumber",
+          "label": "Phone Number",
+          "group": "validate",
+          "placeholder": "Ex. 123-456-7890",
+          "field": {
+            "validators": [
+              "required",
+              "matchRegexp:([0-9]{3})([ .-]?)([0-9]{3})\\2([0-9]{4})"
+            ],
+            "errorMessages": [
+              "This field is required",
+              "Please enter a valid 10 numerical digits phone number"
+            ]
+          }
+        },
+        {
+          "id": "address",
+          "name": "address",
+          "label": "Installation Address",
+          "group": "validate",
+          "placeholder": "Ex. 123 Main Street Drive",
+          "field": {
+            "options": "stateOptions",
+            "validators": [
+              "required"
+            ],
+            "errorMessages": [
+              "This field is required"
+            ]
+          }
+        },
+        {
+          "id": "unit",
+          "name": "unit",
+          "label": "Unit No.",
+          "group": "validate",
+          "placeholder": "",
+          "field": {
+            "validators": [
+              "maxStringLength:10"
+            ],
+            "errorMessages": [
+              "Please enter a valid Unit # (Must not exceed 10 characters)"
+            ]
+          }
+        },
+        {
+          "id": "city",
+          "name": "city",
+          "label": "City",
+          "group": "validate",
+          "placeholder": "Ex. San Francisco",
+          "field": {
+            "validators": [
+              "required",
+              "maxStringLength:50"
+            ],
+            "errorMessages": [
+              "This field is required",
+              "Please enter a valid City (Must not exceed 50 characters)"
+            ]
+          }
+        },
+        {
+          "id": "state",
+          "name": "state",
+          "label": "State",
+          "group": "validate",
+          "placeholder": "Select one",
+          "field": {
+            "values": [],
+            "options": "stateOptions",
+            "validators": [
+              "required"
+            ],
+            "errorMessages": [
+              "This field is required"
+            ]
+          }
+        },
+        {
+          "id": "zip",
+          "name": "zip",
+          "label": "Zip Code",
+          "group": "validate",
+          "placeholder": "Ex. 12345",
+          "field": {
+            "validators": [
+              "required",
+              "isNumber",
+              "maxStringLength:5",
+              "minStringLength:5"
+            ],
+            "errorMessages": [
+              "This field is required",
+              "Please enter a valid five-digit numerical ZIP Code"
+            ]
+          }
+        },
+        {
+          "id": "termsAndConditions",
+          "name": "termsAndConditions",
+          "label": "Terms and Conditions",
+          "scope": "program",
+          "content": "",
+          "group": "validate",
+          "field": {
+            "showOnSummary": false
+          }
+        },
+        {
+          "id": "uploadFile",
+          "name": "uploadFile",
+          "label": "Upload File",
+          "group": "upload",
+          "field": {
+            "validators": [
+              "required"
+            ],
+            "fileTypes": [
+              ".pdf",
+              ".jpg",
+              ".jpeg",
+              ".png"
+            ],
+            "fileMaxSize": 2,
+            "errorMessages": [
+              "This field is required"
+            ]
+          }
+        },
+        {
+          "id": "brand_name",
+          "name": "brand_name",
+          "label": "Manufacturer",
+          "group": "ahri",
+          "placeholder": "Start typing a manufacturer",
+          "field": {
+            "values": [],
+            "validators": [
+              "required"
+            ],
+            "errorMessages": [
+              "This field is required"
+            ]
+          }
+        },
+        {
+          "id": "model_number",
+          "name": "model_number",
+          "label": "Model Number",
+          "group": "ahri",
+          "placeholder": "Start typing model number",
+          "field": {
+            "validators": [
+              "required"
+            ],
+            "errorMessages": [
+              "This field is required"
+            ]
+          }
+        },
+        {
+          "id": "quantity",
+          "name": "quantity",
+          "label": "Quantity",
+          "group": "ahri",
+          "placeholder": "Number of items",
+          "field": {
+            "validators": [
+              "required",
+              "isNumber",
+              "maxStringLength:4"
+            ],
+            "errorMessages": [
+              "This field is required",
+              "Please enter a valid Number of items",
+              "Please enter a valid Number of items"
+            ]
+          }
+        },
+        {
+          "id": "building_type",
+          "name": "building_type",
+          "label": "Building Type",
+          "group": "ahri",
+          "placeholder": "Select one",
+          "field": {
+            "values": [
+              {
+                "label": "Single-Family",
+                "value": "Single-Family"
+              },
+              {
+                "label": "Multi-Family",
+                "value": "Multi-Family"
+              }
+            ],
+            "validators": [],
+            "errorMessages": []
+          }
+        },
+        {
+          "id": "conditioned_area_sqft",
+          "name": "conditioned_area_sqft",
+          "label": "Conditioned Area (sqft)",
+          "group": "ahri",
+          "placeholder": "EX 1234",
+          "field": {
+            "validators": [
+              "required",
+              "isNumber",
+              "maxStringLength:4"
+            ],
+            "errorMessages": [
+              "This field is required"
+            ]
+          }
+        },
+        {
+          "id": "date_installled",
+          "name": "date_installled",
+          "label": "Date Installed",
+          "group": "ahri",
+          "placeholder": "MM/DD/YYYY",
+          "field": {
+            "validators": [
+              "required",
+              "maxStringLength:45"
+            ],
+            "errorMessages": [
+              "This field is required",
+              "Please enter a Installation Date (Must not exceed 45 characters)"
+            ],
+            "disableFuture": true,
+            "disablePast": false,
+            "format": "MM/DD/YYYY"
+          }
+        },
+        {
+          "id": "serial_number",
+          "name": "serial_number",
+          "label": "Serial Number",
+          "group": "ahri",
+          "placeholder": "EX 1234",
+          "field": {
+            "validators": [
+              "required",
+              "isNumber",
+              "maxStringLength:20"
+            ],
+            "errorMessages": [
+              "This field is required"
+            ]
+          }
+        },
+        {
+          "id": "purchase_date",
+          "name": "purchase_date",
+          "label": "Purchase Date",
+          "group": "ahri",
+          "placeholder": "MM/DD/YYYY",
+          "field": {
+            "validators": [
+              "required",
+              "maxStringLength:45"
+            ],
+            "errorMessages": [
+              "This field is required",
+              "Please enter a valid Purchase Date (Must not exceed 45 characters)"
+            ],
+            "disableFuture": true,
+            "disablePast": false,
+            "format": "MM/DD/YYYY"
+          }
+        },
+        {
+          "id": "purchase_price",
+          "name": "purchase_price",
+          "label": "Purchase Price",
+          "group": "ahri",
+          "placeholder": "$0.00",
+          "field": {
+            "validators": [
+              "required",
+              "maxStringLength:45"
+            ],
+            "errorMessages": [
+              "This field is required",
+              "Please enter a valid Purchase Price (Must not exceed 45 characters)"
+            ]
+          }
+        },
+        {
+          "id": "year_built",
+          "name": "year_built",
+          "label": "Year Built",
+          "group": "ahri",
+          "placeholder": "Enter Year",
+          "field": {
+            "values": [],
+            "validators": [
+              "required"
+            ],
+            "errorMessages": [
+              "This field is required"
+            ]
+          }
+        },
+        {
+          "id": "installation_zip_code",
+          "name": "installation_zip_code",
+          "label": "Installation Zip Code",
+          "group": "ahri",
+          "placeholder": "Ex. 12345",
+          "field": {
+            "validators": [
+              "required"
+            ],
+            "errorMessages": [
+              "This field is required"
+            ]
+          }
+        },
+        {
+          "id": "installation_type",
+          "name": "installation_type",
+          "label": "Installation Type",
+          "group": "contractor",
+          "placeholder": "Select one",
+          "field": {
+            "values": [
+              {
+                "label": "Self Installed",
+                "value": "Self Installed"
+              },
+              {
+                "label": "Contractor",
+                "value": "Contractor"
+              }
+            ],
+            "validators": [],
+            "errorMessages": []
+          }
+        },
+        {
+          "id": "contractorName",
+          "name": "contractorName",
+          "label": "Contractor Name",
+          "group": "contractor",
+          "placeholder": "Ex. John",
+          "field": {
+            "validators": [],
+            "errorMessages": []
+          }
+        },
+        {
+          "id": "address",
+          "name": "address",
+          "label": "Contractor Address",
+          "group": "contractor",
+          "placeholder": "Ex. 123 Main Street Drive",
+          "field": {
+            "options": "stateOptions",
+            "validators": [],
+            "errorMessages": []
+          }
+        },
+        {
+          "id": "city",
+          "name": "city",
+          "label": "Contractor City",
+          "group": "contractor",
+          "placeholder": "Ex. San Francisco",
+          "field": {
+            "validators": [],
+            "errorMessages": []
+          }
+        },
+        {
+          "id": "state",
+          "name": "state",
+          "label": "Contractor State",
+          "group": "contractor",
+          "placeholder": "Select one",
+          "field": {
+            "values": [],
+            "options": "stateOptions",
+            "validators": [],
+            "errorMessages": []
+          }
+        },
+        {
+          "id": "zip",
+          "name": "zip",
+          "label": "Contractor Zip",
+          "group": "contractor",
+          "placeholder": "Ex. 12345",
+          "field": {
+            "validators": [],
+            "errorMessages": []
+          }
+        },
+        {
+          "id": "contractorPhone",
+          "name": "contractorPhone",
+          "label": "Contractor Phone",
+          "group": "contractor",
+          "placeholder": "Ex. 123-456-7890",
+          "field": {
+            "validators": [],
+            "errorMessages": []
+          }
+        },
+        {
+          "": ""
+        },
+        {
+          "": ""
+        },
+        {
+          "": ""
+        },
+        {
+          "": ""
+        },
+        {
+          "": ""
+        },
+        {
+          "": ""
+        },
+        {
+          "": ""
+        },
+        {
+          "": ""
+        }
+      ],
+      "schedule": [],
+      "attachments": [
+        {
+          "filename": "taw94.jpg",
+          "download_url": "https://ec-stg.clearesult.io/media/eligibility_documents/order/6547/taw94.jpg"
+        }
+      ],
+      "truncate_zip_code": false
+    }
+  ]
+}
